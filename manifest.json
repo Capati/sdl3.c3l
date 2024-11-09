@@ -1,0 +1,47 @@
+{
+    "provides": "sdl3",
+    "targets": {
+        "freebsd-x64": {
+            "linked-libraries": ["sdl3"]
+        },
+        "linux-aarch64": {
+            "linked-libraries": ["sdl3"]
+        },
+        "linux-riscv32": {
+            "linked-libraries": ["sdl3"]
+        },
+        "linux-riscv64": {
+            "linked-libraries": ["sdl3"]
+        },
+        "linux-x86": {
+            "linked-libraries": ["sdl3"]
+        },
+        "linux-x64": {
+            "linked-libraries": ["sdl3"]
+        },
+        "macos-aarch64": {
+            "linked-libraries": ["sdl3"]
+        },
+        "macos-x64": {
+            "linked-libraries": ["sdl3"]
+        },
+        "netbsd-x64": {
+            "linked-libraries": ["sdl3"]
+        },
+        "openbsd-x64": {
+            "linked-libraries": ["sdl3"]
+        },
+        "wasm32": {
+            "linked-libraries": ["sdl3"]
+        },
+        "wasm64": {
+            "linked-libraries": ["sdl3"]
+        },
+        "windows-aarch64": {
+            "linked-libraries": ["sdl3"]
+        },
+        "windows-x64": {
+            "linked-libraries": ["sdl3"]
+        }
+    }
+}
